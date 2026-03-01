@@ -1,7 +1,9 @@
 ㅤ![](https://komarev.com/ghpvc/?username=GODofENTERTAINMENT)
 <img width="2048" height="233" alt="image" src="https://github.com/user-attachments/assets/b8ea0a27-ea8f-44dd-9c2e-ca21882550f9" />
 
-<p align="center"><img width="231" height="109" alt="image" src="https://github.com/user-attachments/assets/5262d818-6de5-4cea-a60f-728f9c1eb6e3" />
+<p align="center"><img width="231" height="109" alt="image" src="https://github.com/user-attachments/assets/5262d818-6de5-4cea-a60f-728f9c1eb6e3" /> /
+<img width="144" height="63" alt="image" src="https://github.com/user-attachments/assets/67740afe-6814-4012-9d77-b61152e02bfe" />
+
 
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/e9cba2ed-2995-4d34-8885-f0c1cc304961" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a3f5cc7e-8174-4839-a64c-a21471446f8c" />
